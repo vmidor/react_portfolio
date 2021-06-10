@@ -1,6 +1,6 @@
 import React from "react";
 import crypto from "../img/crypto.png";
-import aguaDeLuz from "../img/directory.png";
+import directory from "../img/directory.png";
 
 import PropTypes from "prop-types";
 
@@ -135,7 +135,7 @@ export default class Projects extends React.Component {
 						{/*user directory card*/}
 						<div id="userd" className="modal-card">
 							<div className="visual">
-								<img src={aguaDeLuz} alt="" />
+								<img src={directory} alt="" />
 							</div>
 							<div className="modal-info">
 								<h2>User directory</h2>
