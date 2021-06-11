@@ -9,24 +9,24 @@ class Footer extends React.Component {
 				<div className="container">
 					<div className="row">
 						<div className="col-12 col-sm-12 col-md-8 mx-auto">
-						
+
 							<a
 								className="px-3"
 								href="https://github.com/vmidor"
 								target="_blank"
 								rel="noopener noreferrer">
-								<img src={github} alt=""/>
+								<img src={github} alt="" />
 							</a>
 							<a
 								href="https://www.linkedin.com/in/viktoriia-m-b85aa5209/"
 								target="_blank"
 								rel="noopener noreferrer">
-								<img src={linkedin} alt=""/>
+								<img src={linkedin} alt="" />
 							</a>
-							
+
 						</div>
 					</div>
-					
+
 				</div>
 			</div>
 		);
