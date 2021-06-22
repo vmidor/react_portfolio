@@ -1,7 +1,6 @@
 import React from "react";
 import Background from "./background.jsx";
 import About from "./about.jsx";
-//import Test from "./test.jsx";
 import Projects from "./projects.jsx";
 import Contact from "./contact.jsx";
 
@@ -57,9 +56,9 @@ class Navbar extends React.Component {
 				<nav
 					id="navbar"
 					className="navbar-expand-lg navbar-light bg-light nav justify-content-center">
-						
+
 					<div className="container">
-					
+
 						<button
 							className="navbar-toggler"
 							type="button"

@@ -24,14 +24,7 @@ export default class About extends React.Component {
 								width: 750 + "px"
 							}}
 						/>
-						{/* <p className={"mytext pt-3 " + this.props.fadeIn}>
-						My education background comprise of Bachelor’s degree in labor
-                            and Commercial Law from University in Ukraine. Currently engaged in
-                            Cooding BootCamp at UNC Charlotte with hands on experience
-                            using API's, JavaScript, CSS and others frameworks.
-                            The last three years of experience in retail has taught me
-                            the values of teamwork, communication, and sharing a vision.
-						</p> */}
+					
 					</div>
 					<div
 						className={"col-12 col-sm-12 col-md-12 col-lg-6 " + this.props.fadeIn}>

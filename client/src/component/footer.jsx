@@ -1,7 +1,7 @@
 import React from "react";
 import github from "../img/github.png";
 import linkedin from "../img/linkedin.png";
-
+import mail2 from "../img/mail2.png";
 class Footer extends React.Component {
 	render() {
 		return (
@@ -22,6 +22,12 @@ class Footer extends React.Component {
 								target="_blank"
 								rel="noopener noreferrer">
 								<img src={linkedin} alt="" />
+							</a>
+							<a
+								href="https://www.linkedin.com/in/viktoriia-m-b85aa5209/"
+								target="_blank"
+								rel="noopener noreferrer">
+								<img src={mail2} alt="" />
 							</a>
 
 						</div>
